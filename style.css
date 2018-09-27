@@ -1,4 +1,22 @@
-h3 {
-    color: red !important;
-    font-size: 44px;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clearfix {
+    content: "";
+    display: table;
+    clear: both;
+}
+body {
+    background-size: cover;
+    font-family: Lato;
+    background-position: center;
+    font-weight: 300;
+    color: #555;
+    align-content: center;
+}
+.wrapper {
+    border: 1px solid #555;
+    margin: 5% 12%;
 }
