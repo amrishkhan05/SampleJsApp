@@ -20,3 +20,7 @@ body {
     border: 1px solid #555;
     margin: 5% 12%;
 }
+.active {
+    background-color: aqua;
+    color: red;
+}
